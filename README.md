@@ -1,6 +1,8 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruggerygusmao&layout=compact&langs_count=7&theme=midnight-purple"/>
 # Olá, me chamo Ruggery Gusmão! :man_technologist:	
 
 Sou um entusiasta na área de tecnologia, graduado em Análise e Desenvolvimeno de Sistemas pela Uninassau. Atualmente venho aprimorando minhas habilidades na área de front end e buscando minha primeira oportunidade como dev jr.
+
 
 <a href="https://www.linkedin.com/in/ruggerygusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:ruggery402@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
