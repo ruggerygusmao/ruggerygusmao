@@ -1,4 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruggerygusmao&layout=compact&langs_count=7&theme=midnight-purple"/>
+
 # Olá, me chamo Ruggery Gusmão! :man_technologist:	
 
 Sou um entusiasta na área de tecnologia, graduado em Análise e Desenvolvimeno de Sistemas pela Uninassau. Atualmente venho aprimorando minhas habilidades na área de front end e buscando minha primeira oportunidade como dev jr.
